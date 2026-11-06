@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
