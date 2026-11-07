@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
