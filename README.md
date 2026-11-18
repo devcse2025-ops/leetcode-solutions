@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
