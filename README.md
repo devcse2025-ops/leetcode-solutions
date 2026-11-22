@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
