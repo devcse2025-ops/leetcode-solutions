@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
