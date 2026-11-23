@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1844-replace-all-digits-with-characters](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
