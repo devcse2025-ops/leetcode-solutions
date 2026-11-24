@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
