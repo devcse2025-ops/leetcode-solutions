@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
