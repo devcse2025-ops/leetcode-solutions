@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
