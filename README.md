@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/devcse2025-ops/leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
